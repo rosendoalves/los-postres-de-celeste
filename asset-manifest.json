@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/los-postres-de-celeste/static/css/main.f6777306.css",
+    "main.js": "/los-postres-de-celeste/static/js/main.85126db8.js",
+    "index.html": "/los-postres-de-celeste/index.html",
+    "main.f6777306.css.map": "/los-postres-de-celeste/static/css/main.f6777306.css.map",
+    "main.85126db8.js.map": "/los-postres-de-celeste/static/js/main.85126db8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6777306.css",
+    "static/js/main.85126db8.js"
+  ]
+}
