@@ -35,7 +35,7 @@ Tu proyecto ya está configurado para GitHub Pages. Se han realizado las siguien
 
 3. **Conectar repositorio local con GitHub**:
    ```bash
-   git remote add origin https://github.com/rosen/los-postres-de-celeste.git
+   git remote add origin https://github.com/rosendoalves/los-postres-de-celeste.git
    git branch -M main
    git push -u origin main
    ```
@@ -81,8 +81,8 @@ npx serve -s build
 
 ## 🌐 URLs
 
-- **Repositorio**: https://github.com/rosen/los-postres-de-celeste
-- **Sitio web**: https://rosen.github.io/los-postres-de-celeste
+- **Repositorio**: https://github.com/rosendoalves/los-postres-de-celeste
+- **Sitio web**: https://rosendoalves.github.io/los-postres-de-celeste
 
 ## ⚠️ Notas Importantes
 
@@ -112,6 +112,6 @@ npx serve -s build
 ## 🎉 ¡Listo!
 
 Una vez completados estos pasos, tu sitio estará disponible en:
-**https://rosen.github.io/los-postres-de-celeste**
+**https://rosendoalves.github.io/los-postres-de-celeste**
 
 ¡Tu landing page de "Los Postres de Celeste" estará en línea! 🍰
